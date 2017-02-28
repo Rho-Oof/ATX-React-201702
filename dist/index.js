@@ -36031,7 +36031,7 @@ var Intro = _react2.default.createClass({
         'React performance problems'
       ),
       _react2.default.createElement(
-        'h2',
+        'h3',
         null,
         'this project is available ',
         _react2.default.createElement(
@@ -36041,7 +36041,7 @@ var Intro = _react2.default.createClass({
         )
       ),
       _react2.default.createElement(
-        'p',
+        'h3',
         null,
         'the most common react performance problems come from too many components needing to update on the page for every render'
       )
