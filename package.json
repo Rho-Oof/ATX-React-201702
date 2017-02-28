@@ -1,13 +1,14 @@
 {
-  "name": "react-atx-201702",
+  "name": "atx-react-201702",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "repository": "robert-ostensen/ATX-React-201702",
   "scripts": {
     "start": "webpack-dev-server --port 3030 --progress",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Robert Ostensen",
   "license": "MIT",
   "dependencies": {
     "babel-core": "^6.23.1",
