@@ -1,0 +1,36 @@
+{
+  "name": "react-atx-201702",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --port 3030 --progress",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.23.1",
+    "babel-eslint": "^7.1.1",
+    "babel-loader": "^6.3.2",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
+    "babel-preset-react-hmre": "^1.1.1",
+    "bootstrap": "^3.3.7",
+    "classnames": "^2.2.5",
+    "css-loader": "^0.26.2",
+    "file-loader": "^0.10.1",
+    "immutable": "^3.8.1",
+    "json-loader": "^0.5.4",
+    "lodash": "^4.17.4",
+    "raw-loader": "^0.5.1",
+    "react": "^15.4.2",
+    "react-addons-perf": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-highlight": "^0.9.0",
+    "style-loader": "^0.13.2",
+    "url-loader": "^0.5.8",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  }
+}
